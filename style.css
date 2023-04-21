@@ -22,7 +22,7 @@ body {
     .about { 
         text-align: center;
     }
-    
+
 }
 .main {
     display: block;
@@ -39,7 +39,7 @@ body {
 }
 .main-incompleted,
 .main-completed {
-    margin:0;
+    margin: 0;
     padding: 0px;
 }
 
@@ -47,7 +47,7 @@ body {
 .task-elem__edit,
 .task-elem__done,
 .main-title {
-    list-style:none;
+    list-style: none;
 }
 
 .task__input-text,
@@ -56,7 +56,7 @@ body {
 .add-button,
 .task__button-edit,
 .delete__button {
-    outline:none;
+    outline: none;
 }
 
 .add-button,
@@ -160,12 +160,12 @@ body {
 .task-elem .task__input-text,
 .task-elem__edit .task__input-text,
 .task-elem__done .task__input-text {
-    display:none
+    display: none
 }
 .task-elem__edit .task__input-text {
-    display:inline-block;
-    width:224px
+    display: inline-block;
+    width: 224px
 }
 .task-elem__edit .task__label {
-    display:none;
+    display: none;
 }
